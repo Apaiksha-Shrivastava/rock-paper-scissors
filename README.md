@@ -23,5 +23,4 @@ How to Play
 4. Play again and enjoy the game.
 
 
-Author
-Apaiksha Shrivastava
+
